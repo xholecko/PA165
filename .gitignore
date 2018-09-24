@@ -3,6 +3,8 @@
 .project
 test-output
 .classpath
+*.jar
+*.class
 *.iml
 *~
 target
